@@ -7,3 +7,7 @@ edition = "2021"
 
 [dependencies]
 arrayvec = "0.7"
+
+[features]
+default = []
+rect_extents = []
